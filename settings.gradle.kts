@@ -2,10 +2,6 @@
 
 import java.net.URI
 
-
-
-
-
 pluginManagement {
     repositories {
         google()
@@ -29,7 +25,7 @@ dependencyResolutionManagement {
 
 }
 
-rootProject.name = "ProjectTemplates"
+rootProject.name = "ProjectTemplateWithDaggerNative"
 include(":library:base")
 include(":examples:cat-facts")
 include(":app")

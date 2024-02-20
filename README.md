@@ -1,6 +1,6 @@
 ![Static Badge](https://img.shields.io/badge/version-v1.0.0-blue)
 
-# Project Template
+# Project Template With Dagger And Android Native
 
 Project Template is sample template project provides ready to use project with plug-in and play
 features.

@@ -22,5 +22,7 @@ enum class ProgressState {
 enum class Status {
     SUCCESS,
     ERROR,
-    LOADING
+    LOADING,
+    HTTP_ERROR
+
 }
