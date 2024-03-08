@@ -40,6 +40,8 @@ extra.apply {
         androidTestImplementation("androidx.test.ext:junit:1.1.5")
         androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
         implementation("androidx.core:core-ktx:$androidXCoreVersion")
+        implementation("androidx.test.ext:junit-ktx:1.1.5")
+
 
         //DI dagger and hilt
         kapt("com.google.dagger:dagger-compiler:$daggerVersion")

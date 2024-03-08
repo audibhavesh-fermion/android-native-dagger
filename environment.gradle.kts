@@ -22,7 +22,7 @@ var environment: ENVIRONMENT by extra { ENVIRONMENT.DEV }
 //app android sdk version settings
 var baseCompileSDK by extra { 34 }
 var baseTargetSDK by extra { 34 }
-val baseMinSDK by extra { 24 }
+val baseMinSDK by extra { 26 }
 
 // default app version
 var versionName by extra { "1.0.0" }
